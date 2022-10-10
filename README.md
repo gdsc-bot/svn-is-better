@@ -1,6 +1,6 @@
 Great work on making it this far! This one is not going to be easy!
 -----------------------------------------------------------------------------------------------------------------------------------
-- Problem #4: Add answer three to answer two, then add “-sha-256” to the end of the problem. (All words separated by dashes “-”.) -
+ Problem #4: Add answer three to answer two, then add “-sha-256” to the end of the problem. (All words separated by dashes “-”.) 
 -----------------------------------------------------------------------------------------------------------------------------------
 1. What day do programmers mix up with Halloween? (Hint: OCT 31 = _____).
 
